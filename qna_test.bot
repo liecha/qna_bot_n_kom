@@ -1,0 +1,18 @@
+{
+    "name": "qna_test",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "3d4f9ef0-ff68-11e8-a541-a1bbece98ca2",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/emelieaberg/Documents/work_assignment_hiq_ace/norrkopings_kommun/chatbot/bot_n_kom_qna_test-src/qna_test.bot"
+}
